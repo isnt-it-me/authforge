@@ -1,0 +1,14 @@
+node_modules
+.env
+client/node_modules
+
+coverage
+
+npm-debug.log*
+
+.DS_Store
+
+.vscode
+
+dist
+client/dist
