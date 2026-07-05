@@ -3,11 +3,9 @@ import api from "../services/api";
 
 function Dashboard() {
 
-    const [user, setUser] =
-        useState(null);
+    const [user, setUser] = useState(null);
 
-        const [description, setDescription] =
-    useState("");
+        const [description, setDescription] = useState("");
 
     useEffect(() => {
 
